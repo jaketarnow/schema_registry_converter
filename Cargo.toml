@@ -17,7 +17,7 @@ default = []
 kafka_test = []
 
 [dependencies.avro-rs]
-version = ">= 0.6"
+version = ">= 0.7"
 
 [dependencies.byteorder]
 version = ">= 1.0"
@@ -36,7 +36,7 @@ features = ["derive"]
 version = ">=0.8.0, <2.0"
 
 [dependencies.url]
-version = ">= 2.1.1"
+version = "= 2.1.1"
 
 [dev-dependencies]
 mockito = "0.23.3"
