@@ -26,7 +26,7 @@ version = ">= 1.0"
 version = ">= 0.4"
 
 [dependencies.failure]
-version = ">= 0.1.6"
+version = "= 0.1.5"
 
 [dependencies.serde]
 version = "1.0"
